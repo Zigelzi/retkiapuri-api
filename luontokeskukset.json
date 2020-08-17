@@ -1,0 +1,1431 @@
+[{
+	"id": 415922,
+	"name": "Oulangan kansallispuisto",
+	"link": "https://www.luontoon.fi/oulanka",
+	"lon": "29.3150405485303",
+	"lat": "66.3683633712176",
+	"articleId": "415920",
+	"imageLink": null,
+	"description": "Pohjois-Pohjanmaa ja Itä-Lappi<br>Reitit: Lyhyistä päiväreiteistä (2-12 km) Karhunkierrokseen (82 km). Merkittyjä reittejä yhteensä 150 km.<br>Tekemistä: Patikointi, melonta, lumikenkäily",
+	"typeId": -1
+}, {
+	"id": 490869,
+	"name": "Suvasvesi",
+	"link": "https://www.luontoon.fi/suvasvesi",
+	"lon": "28.19004288",
+	"lat": "62.53738064",
+	"articleId": "490867",
+	"imageLink": null,
+	"description": "Itä-Suomi, Pohjois-Savo <br> Reitit: Luontopolku 2 km Paimensaaressa <br> Tekemistä: Melonta, veneily, kalastus",
+	"typeId": 1
+}, {
+	"id": 554289,
+	"name": "Savukosken opastuskeskus Korvatunturi",
+	"link": "https://www.luontoon.fi/savukoskenopastuskeskus",
+	"lon": "28.14129367",
+	"lat": "67.29766653",
+	"articleId": "554287",
+	"imageLink": null,
+	"description": "Itä-Lappi <br> Näyttelyt, av-esitykset, retkeilyneuvonta, luontopuoti, lupamyynti",
+	"typeId": -1
+}, {
+	"id": 437001,
+	"name": "Urho Kekkosen kansallispuisto",
+	"link": "https://www.luontoon.fi/urhokekkosenkansallispuisto",
+	"lon": "28.00281",
+	"lat": "68.22422",
+	"articleId": "436999",
+	"imageLink": null,
+	"description": "Itä- ja Pohjois-Lappi <br> Reitit: Useita luontopolkuja (1-7 km), merkittyjä reittejä yhteensä 200 km <br> Tekemistä: Patikointi, erävaellus, hiihto, maastopyöräily",
+	"typeId": -1
+}, {
+	"id": 57482126,
+	"name": "Maailmanperintöportti",
+	"link": "https://www.luontoon.fi/maailmanperintoportti",
+	"lon": "21.462071667",
+	"lat": "63.207145000",
+	"articleId": "57482124",
+	"imageLink": null,
+	"description": "Länsi-Suomi, Pohjanmaa <br> Näyttely, neuvonta, ryhmäopastukset, kahvila-ravintola, galleria",
+	"typeId": -1
+}, {
+	"id": 480330,
+	"name": "Peurajärven virkistysalue",
+	"link": "https://www.luontoon.fi/peurajarvi",
+	"lon": "29.18168",
+	"lat": "63.81849",
+	"articleId": "480328",
+	"imageLink": null,
+	"description": "Itä-Suomi, Pohjois-Karjala <br> Reitit: Rengasreitit 6 ja 7 km <br>  Tekemistä: Patikointi, melonta, kalastus, nähtävyyksien katselu",
+	"typeId": 1
+}, {
+	"id": 469964,
+	"name": "Kevon luonnonpuisto",
+	"link": "https://www.luontoon.fi/kevo",
+	"lon": "26.98430196",
+	"lat": "69.75730488",
+	"articleId": "469962",
+	"imageLink": null,
+	"description": "Pohjois-Lappi <br> Reitit: Luontopolku 2 km, kaksi retkeilyreittiä 63 ja 86,5 km <br> Tekemistä: Erävaellus, nähtävyyksien ja näköalojen katselu",
+	"typeId": 1
+}, {
+	"id": 423512,
+	"name": "Päijänteen kansallispuisto",
+	"link": "https://www.luontoon.fi/paijanne",
+	"lon": "25.47397792",
+	"lat": "61.34014121",
+	"articleId": "423510",
+	"imageLink": null,
+	"description": "Päijät-Häme<br>Reitit: Useita merkittyjä patikointireittejä (2–30 km), talvisin jäätilanteen salliessa hiihtolatu (14 km), kesäisin veneretkeily- ja melontareittejä<br>Tekemistä: Veneily, nähtävyyksien ja näköalojen katselu, lintujen tarkkailu",
+	"typeId": -1
+}, {
+	"id": 398315,
+	"name": "Koloveden kansallispuisto",
+	"link": "https://www.luontoon.fi/kolovesi",
+	"lon": "28.89602558",
+	"lat": "62.20020784",
+	"articleId": "398313",
+	"imageLink": null,
+	"description": "Etelä-Savo<br>Reitit: Kaksi merkittyä luontopolkua (Nahkiaissalo 3,3 km ja Mäntysalo 3,8 km)<br>Tekemistä: Melonta, nähtävyyksien ja näköalojen katselu, patikointi",
+	"typeId": -1
+}, {
+	"id": 575946,
+	"name": "Karhunkierros 80 km",
+	"link": "https://www.luontoon.fi/karhunkierros",
+	"lon": "29.21809695",
+	"lat": "66.20867027",
+	"articleId": "575944",
+	"imageLink": null,
+	"description": "Pohjois-Pohjanmaa, Itä-Lappi <br> Suomen suosituin vallusreitti, kuljettavissa varmimmin 1.6.-15.10., myös lyhyempiä reittivaihtoehtoja",
+	"typeId": -1
+}, {
+	"id": 482991,
+	"name": "Käsivarren erämaa-alue",
+	"link": "https://www.luontoon.fi/kasivarsi",
+	"lon": "21.66231",
+	"lat": "68.97335",
+	"articleId": "482989",
+	"imageLink": null,
+	"description": "Tunturi-Lappi <br> Reitit: Luontopolku (5 km) ja merkittyjä reittejä (0,8-140 km) <br> Tekemistä: Erävaellus, maastohiihto, kalastus",
+	"typeId": 0
+}, {
+	"id": 456277,
+	"name": "Oulujärven retkeilyalue",
+	"link": "https://www.luontoon.fi/oulujarvi",
+	"lon": "27.22333421",
+	"lat": "64.45155876",
+	"articleId": "456275",
+	"imageLink": null,
+	"description": "Kainuu ja Pohjois-Pohjanmaa <br> Reitit: Merkittyjä retkeilypolkuja 17 km, hoidettuja hiihtolatuja 10 km <br> Tekemistä: Patikointi, kalastus, nähtävyyksien ja näköalojen katselu",
+	"typeId": -1
+}, {
+	"id": 584699,
+	"name": "Ruijanpolku 35 km",
+	"link": "https://www.luontoon.fi/sompio/reitit/reittikuvaukset",
+	"lon": "27.43395801",
+	"lat": "68.15891117",
+	"articleId": "584697",
+	"imageLink": null,
+	"description": "Itä-Lappi <br> Kesäreitti, Sompion luonnonpuistossa saa liikkua ainoastaan merkityllä polulla",
+	"typeId": -1
+}, {
+	"id": 420727,
+	"name": "Patvinsuon kansallispuisto",
+	"link": "https://www.luontoon.fi/patvinsuo",
+	"lon": "30.82207573",
+	"lat": "63.07258087",
+	"articleId": "420725",
+	"imageLink": null,
+	"description": "Pohjois-Karjala<br>Reitit: Yhteensä noin 80 km merkittyjä rengasreittejä ja luontopolkuja (3–25 km) sekä yhteys laajaan Karjalan kierros -retkeilyreitistöön<br>Tekemistä: Patikointi, lintujen tarkkailu, melonta",
+	"typeId": -1
+}, {
+	"id": 417623,
+	"name": "Herajärven kierros 30 - 61 km",
+	"link": "https://www.luontoon.fi/herajarvenkierros",
+	"lon": "29.85502483",
+	"lat": "63.06710954",
+	"articleId": "417621",
+	"imageLink": null,
+	"description": "Itä-Suomi, Pohjois-Karjala <br> Kaksi rengasreittiä (30 ja 35 km), kuljettavissa lumettomaan aikaan",
+	"typeId": -1
+}, {
+	"id": 948427,
+	"name": "Luiron suot",
+	"link": "https://www.luontoon.fi/luironsuot",
+	"lon": "27.56639",
+	"lat": "67.28371",
+	"articleId": "948425",
+	"imageLink": null,
+	"description": "Itä-Lappi <br> Reitit: Luontopolku 1,2 km, melontareitti <br> Tekemistä: Melonta, erävaellus, lintujen tarkkailu",
+	"typeId": 1
+}, {
+	"id": 500059,
+	"name": "Pöyrisjärven erämaa-alue",
+	"link": "https://www.luontoon.fi/poyrisjarvi",
+	"lon": "24.23073",
+	"lat": "68.64663",
+	"articleId": "500057",
+	"imageLink": null,
+	"description": "Pohjois-Lappi <br> Reitit: Ei merkittyjä reittejä <br> Tekemistä: Erävaellus, melonta, kalastus, maastopyöräily",
+	"typeId": 0
+}, {
+	"id": 485073,
+	"name": "Ruunaan luonnonsuojelualue",
+	"link": "https://www.luontoon.fi/ruunaanluonnonsuojelualue",
+	"lon": "30.84244843",
+	"lat": "63.37684644",
+	"articleId": "485071",
+	"imageLink": null,
+	"description": "Itä-Suomi, Pohjois-Karjala <br> Reitit: Merkitty reitti 9,5 km <br> Tekemistä: Patikointi, melonta, kalastus",
+	"typeId": 1
+}, {
+	"id": 459377,
+	"name": "Ruunaan retkeilyalue",
+	"link": "https://www.luontoon.fi/ruunaa",
+	"lon": "30.5904228",
+	"lat": "63.38475626",
+	"articleId": "459375",
+	"imageLink": null,
+	"description": "Pohjois-Karjala <br> Reitit: Useita reittejä ja luontopolku (2-31 km), 40 km moottorikelkkauraa ja 30 km huollettuja latuja <br> Tekemistä: Koskenlasku, koskimelonta, kalastus, patikointi",
+	"typeId": -1
+}, {
+	"id": 490415,
+	"name": "Pukalan virkistysmetsä",
+	"link": "https://www.luontoon.fi/pukala",
+	"lon": "24.14520",
+	"lat": "61.69043",
+	"articleId": "490413",
+	"imageLink": null,
+	"description": "Länsi-Suomi, Pirkanmaa <br> Reitit: Rengasreitit 6 ja 6,5 km, melontareitti 8 km <br> Tekemistä: Patikointi, melonta, kalastus, marjastus ja sienestys",
+	"typeId": 1
+}, {
+	"id": 551461,
+	"name": "Tunturi-Lapin luontokeskus",
+	"link": "https://www.luontoon.fi/tunturi-lapinluontokeskus",
+	"lon": "23.66715646",
+	"lat": "68.39523501",
+	"articleId": "551459",
+	"imageLink": null,
+	"description": "Tunturi-Lappi <br> Näyttelyt, elokuvat, retkeilyneuvonta, lupamyynti, luontopuoti, luontopolku",
+	"typeId": -1
+}, {
+	"id": 402340,
+	"name": "Leivonmäen kansallispuisto",
+	"link": "https://www.luontoon.fi/leivonmaki",
+	"lon": "26.06918729",
+	"lat": "61.94006404",
+	"articleId": "402338",
+	"imageLink": null,
+	"description": "Keski-Suomi<br>Reitit: Luontopolut ja rengasreitit (1,7–5,5 km), 700 m:n osuus Luupään lenkistä sopii myös liikuntarajoitteisille. Perinteisen retkilatu (10 km).<br>Tekemistä: Patikointi, marjastus ja sienestys",
+	"typeId": -1
+}, {
+	"id": 477111,
+	"name": "Kaldoaivin erämaa-alue",
+	"link": "https://www.luontoon.fi/kaldoaivi",
+	"lon": "28.07856",
+	"lat": "69.66429",
+	"articleId": "477109",
+	"imageLink": null,
+	"description": "Pohjois-Lappi <br>  Reitit: Merkittyjä reittejä (5,8-100 km), melontareitti 92 km <br> Tekemistä: Erävaellus, maastopyöräily, melonta",
+	"typeId": 0
+}, {
+	"id": 443551,
+	"name": "Iso-Syötteen retkeilyalue",
+	"link": "https://www.luontoon.fi/iso-syote",
+	"lon": "27.61819719",
+	"lat": "65.60069949",
+	"articleId": "443549",
+	"imageLink": null,
+	"description": "Pohjois-Pohjanmaa <br> Reitit: Helppokulkuisista luontopoluista vaativiin päivätaipaleisiin (1-19 km), maastopyöräilyreittejä (4-19 km) ja hiihtolatuja 30 km <br> Tekemistä: Hiihto, patikointi, maastopyöräily",
+	"typeId": -1
+}, {
+	"id": 440536,
+	"name": "Evon retkeilyalue",
+	"link": "https://www.luontoon.fi/evo",
+	"lon": "25.11137762",
+	"lat": "61.23627027",
+	"articleId": "440534",
+	"imageLink": null,
+	"description": "Kanta-Häme <br> Reitit: 70 km merkittyjä reittejä ja luontopolkuja <br> Tekemistä: Kalastus, leirin järjestäminen, patikointi",
+	"typeId": -1
+}, {
+	"id": 436112,
+	"name": "Tammisaaren saariston kansallispuisto",
+	"link": "https://www.luontoon.fi/tammisaarensaaristo",
+	"lon": "23.54453521",
+	"lat": "59.8271204",
+	"articleId": "436110",
+	"imageLink": null,
+	"description": "Uusimaa<br>Reitit: Luontopolut Modermaganissa (1,5 km), Älgössä (2 km) ja Jussarössä (4,7 km)<br>Tekemistä: Veneily, luontopolut, melonta",
+	"typeId": -1
+}, {
+	"id": 424307,
+	"name": "Repoveden kansallispuisto",
+	"link": "https://www.luontoon.fi/repovesi",
+	"lon": "26.95660579",
+	"lat": "61.20662339",
+	"articleId": "424305",
+	"imageLink": null,
+	"description": "Kymenlaakso ja Etelä-Savo<br>Reitit: Kesällä n. 45 km merkittyjä reittejä. Melontareittejä esimerkiksi Mäntyharjulle. Helmi-maaliskuussa mainio latuverkosto.<br>Tekemistä: Patikointi, nähtävyyksien ja näköalojen katselu, melonta",
+	"typeId": -1
+}, {
+	"id": 572592,
+	"name": "Ruostejärvi - Liesjärven kansallispuisto -reitti 24 km",
+	"link": "https://www.luontoon.fi/ruostejarvi-liesjarvi",
+	"lon": "23.91256251",
+	"lat": "60.69953978",
+	"articleId": "572590",
+	"imageLink": null,
+	"description": "Etelä-Suomi, Kanta-Häme <br> Kaksihaarainen reitti (12 km ja 24 km), kuljettavissa sulan maan aikaan",
+	"typeId": -1
+}, {
+	"id": 538021,
+	"name": "Tiedekeskus Pilke",
+	"link": "https://www.luontoon.fi/pilke",
+	"lon": "25.7247786",
+	"lat": "66.50749352",
+	"articleId": "538019",
+	"imageLink": null,
+	"description": "Etelä-Lappi <br> Näyttelyt, retkeilyneuvonta, lupamyynti, luontopuoti",
+	"typeId": -1
+}, {
+	"id": 431017,
+	"name": "Sipoonkorven kansallispuisto",
+	"link": "https://www.luontoon.fi/sipoonkorpi",
+	"lon": "25.19996624",
+	"lat": "60.29548689",
+	"articleId": "431015",
+	"imageLink": null,
+	"description": "Uusimaa<br>Reitit: Aloittelijoille Ponun Perinnepostia -luontopolku (1,4 km) ja Kalkinpolttajan reitti (4,8 km) vaativassa maastossa. Talvisin lähes 20 km hoidettuja latuja.<br>Tekemistä: Patikointi, hiihto, geokätköily",
+	"typeId": -1
+}, {
+	"id": 552532,
+	"name": "Ulko-Tammio - jatkosodan linnake",
+	"link": "https://www.luontoon.fi/ulko-tammio",
+	"lon": "27.48012907",
+	"lat": "60.34697099",
+	"articleId": "552530",
+	"imageLink": null,
+	"description": "Etelä-Suomi, Kymenlaakso, Itäisen Suomenlahden kansallispuisto <br> Toisen maailmansoden aikaiset tykit, tunneli ja linnakkeen jäännökset ulkosaaristossa",
+	"typeId": -1
+}, {
+	"id": 520532,
+	"name": "Siikavaaran luonnonsuojelualue",
+	"link": "https://www.luontoon.fi/siikavaara",
+	"lon": "28.0027697",
+	"lat": "65.15197248",
+	"articleId": "520530",
+	"imageLink": null,
+	"description": "Pohjois-Pohjanmaa ja Kainuu <br> Reitit: Luontopolku 14-22 km, rengasreitti 7,5 km <br> Tekemistä: Patikointi, näköalojen katselu, kalastus",
+	"typeId": 1
+}, {
+	"id": 387191,
+	"name": "Hämeen luontokeskus",
+	"link": "https://www.luontoon.fi/hameenluontokeskus",
+	"lon": "23.79274981",
+	"lat": "60.71436014",
+	"articleId": "387189",
+	"imageLink": null,
+	"description": "Lounais-Häme <br> Tapahtumia, luontopolkuja, kahvila, luontopuoti, kokous- ja opastuspalvelut, välinevuokraus",
+	"typeId": -1
+}, {
+	"id": 584370,
+	"name": "Simojoen melontareitti 178 km",
+	"link": "https://www.luontoon.fi/simojoenmelontareitti",
+	"lon": "26.3173713",
+	"lat": "66.08475769",
+	"articleId": "584368",
+	"imageLink": null,
+	"description": "Etelä-Lappi <br> Sopii myös aloitteleville melojille, joen lisäksi järviosuuksia",
+	"typeId": -1
+}, {
+	"id": 684009,
+	"name": "Peuran polku 115 km",
+	"link": "https://www.luontoon.fi/peuranpolku",
+	"lon": "25.01871188",
+	"lat": "63.56278287",
+	"articleId": "684007",
+	"imageLink": null,
+	"description": "Länsi-Suomi, Oulun seutu, Keski-Suomi, Pohjanmaa <br> Kuljettavissa sulan maan aikaan, runkoreitti on huonossa kunnossa",
+	"typeId": -1
+}, {
+	"id": 482506,
+	"name": "Pinkjärvi",
+	"link": "https://www.luontoon.fi/pinkjarvi",
+	"lon": "21.75334",
+	"lat": "61.28817",
+	"articleId": "482504",
+	"imageLink": null,
+	"description": "Länsi-Suomi, Satakunta <br> Reitit: Rengasreitti 5 km <br> Tekemistä: Patikointi, lintujen tarkkailu, kalastus",
+	"typeId": 1
+}, {
+	"id": 419485,
+	"name": "Pallas-Yllästunturin kansallispuisto",
+	"link": "https://www.luontoon.fi/pallas-yllastunturi",
+	"lon": "24.38939793",
+	"lat": "67.92223845",
+	"articleId": "419483",
+	"imageLink": null,
+	"description": "Länsi-Lappi<br>Reitit: Merkittyjä kesäreittejä (350 km), maastopyöräilyreittejä (80 km) ja hiihtoreittejä (yli 500 km)<br>Tekemistä: Hiihto, vaellus ja maastopyöräily",
+	"typeId": -1
+}, {
+	"id": 517876,
+	"name": "Älänteen alue",
+	"link": "https://www.luontoon.fi/alanne",
+	"lon": "28.13419",
+	"lat": "63.49287",
+	"articleId": "517874",
+	"imageLink": null,
+	"description": "Itä-Suomi, Pohjois-Savo <br> Reitit: Luontopolku 6 km, merkityt reitit 3-5 km <br> Tekemistä: Patikointi, melonta, kalastus",
+	"typeId": 1
+}, {
+	"id": 574074,
+	"name": "Ruostejärvi - Saari -reitti 11 km",
+	"link": "https://www.luontoon.fi/ruostejarvi-saari",
+	"lon": "23.91256251",
+	"lat": "60.69953978",
+	"articleId": "574072",
+	"imageLink": null,
+	"description": "Etelä-Suomi, Kanta-Häme <br> Kuljettavissa sulan maan aikaan, osa reitistä kulkee kyläteitä pitkin",
+	"typeId": -1
+}, {
+	"id": 471980,
+	"name": "Koitajoen alue",
+	"link": "https://www.luontoon.fi/koitajoki",
+	"lon": "31.40849532",
+	"lat": "62.92864975",
+	"articleId": "471978",
+	"imageLink": null,
+	"description": "Itä-Suomi, Pohjois-Karjala <br> Reitit: Merkittyjä reittejä yhteensä 50 km, melontareitti <br> Tekemistä: Patikointi, erävaellus, melonta, kalastus",
+	"typeId": 1
+}, {
+	"id": 386844,
+	"name": "Kauhanevan-Pohjankankaan kansallispuisto",
+	"link": "https://www.luontoon.fi/kauhaneva-pohjankangas",
+	"lon": "22.46498224",
+	"lat": "62.21082453",
+	"articleId": "386842",
+	"imageLink": null,
+	"description": "Etelä-Pohjanmaa ja Satakunta<br>Reitit: Rengasreitti 4,5 km, pitkospuulenkki 2 km. Puiston halki pyöräilyreitti.<br>Tekemistä: Lintujen tarkkailu, nähtävyyksien ja näköalojen katselu",
+	"typeId": -1
+}, {
+	"id": 489585,
+	"name": "Martinselkosen luonnonsuojelualue",
+	"link": "https://www.luontoon.fi/martinselkonen",
+	"lon": "29.89358941",
+	"lat": "65.19297101",
+	"articleId": "489583",
+	"imageLink": null,
+	"description": "Kainuu <br> Reitit: Merkityt reitit 1-12 km, hiihtoreitit 6-12 km, melontareitti 12 km <br> Tekemistä: Patikointi, melonta, kalastus, marjastus",
+	"typeId": 1
+}, {
+	"id": 579135,
+	"name": "Poronpolku 30 km",
+	"link": "https://www.luontoon.fi/poronpolku",
+	"lon": "24.34423343",
+	"lat": "60.67584251",
+	"articleId": "579133",
+	"imageLink": null,
+	"description": "Etelä-Suomi, Kanta-Häme <br> Kuljettavissa sulan maan aikaan, voidaan kulkea osittain",
+	"typeId": -1
+}, {
+	"id": 526481,
+	"name": "Vätsärin erämaa-alue",
+	"link": "https://www.luontoon.fi/vatsari",
+	"lon": "28.59906",
+	"lat": "69.26136",
+	"articleId": "526479",
+	"imageLink": null,
+	"description": "Pohjois-Lappi <br> Reitit: Yksi merkitty reitti 35 km <br> Tekemistä: Erävaellus, melonta, kalastus",
+	"typeId": 0
+}, {
+	"id": 391256,
+	"name": "Isojärven kansallispuisto",
+	"link": "https://www.luontoon.fi/isojarvi",
+	"lon": "25.06612574",
+	"lat": "61.68524509",
+	"articleId": "391254",
+	"imageLink": null,
+	"description": "Keski-Suomi<br>Reitit: Rengasreittejä (4,5–11 km), luontopolut (3–3,5 km). Reitti Heretystä Kannuslahdelle (500 m) soveltuu lastenvaunuille. Maastopyöräilyreittejä (4–10 km).<br>Tekemistä: Patikointi, melonta, nähtävyyksien ja näköalojen katselu",
+	"typeId": -1
+}, {
+	"id": 531206,
+	"name": "Suomen luontokeskus Haltia",
+	"link": "https://www.luontoon.fi/haltia",
+	"lon": "24.55701831",
+	"lat": "60.29378124",
+	"articleId": "531204",
+	"imageLink": null,
+	"description": "Etelä-Suomi, Uusimaa <br> Näyttelyt, luontopolut, ryhmäopastukset, tapahtumat, ravintola, myymälä, välinevuokraus",
+	"typeId": -1
+}, {
+	"id": 420313,
+	"name": "Petkeljärven kansallispuisto",
+	"link": "https://www.luontoon.fi/petkeljarvi",
+	"lon": "31.20555682",
+	"lat": "62.56742578",
+	"articleId": "420311",
+	"imageLink": null,
+	"description": "Pohjois-Karjala<br>Reitit: Noin 10 km merkittyjä reittejä (2–6,5 km), Taitajan taipaleen (31 km) alkupiste<br>Tekemistä: Patikointi, melonta",
+	"typeId": -1
+}, {
+	"id": 463966,
+	"name": "Iivaara",
+	"link": "https://www.luontoon.fi/iivaara",
+	"lon": "29.77077785",
+	"lat": "65.78829079",
+	"articleId": "463964",
+	"imageLink": null,
+	"description": "Pohjois-Pohjanmaa <br> Reitit: Rengasreitti 9 km, hiihtolatu 40 km <br> Tekemistä: Patikointi, erävaellus, hiihto",
+	"typeId": 1
+}, {
+	"id": 477667,
+	"name": "Murhisalon luonnonsuojelualue",
+	"link": "https://www.luontoon.fi/murhisalo",
+	"lon": "30.10534818",
+	"lat": "64.67279534",
+	"articleId": "477665",
+	"imageLink": null,
+	"description": "Kainuu <br> Reitit: Merkityt reitit 8-18 km, hiihtoreitti 23 km, melontareitti 12 km <br> Tekemistä: Patikointi, erävaellus, melonta",
+	"typeId": 1
+}, {
+	"id": 510318,
+	"name": "Riuttaskorven virkistysmetsä",
+	"link": "https://www.luontoon.fi/riuttaskorpi",
+	"lon": "23.60309",
+	"lat": "61.95580",
+	"articleId": "510316",
+	"imageLink": null,
+	"description": "Länsi-Suomi, Pirkanmaa <br> Reitit: Rengasreitit 3 ja 4 km <br> Tekemistä: Patikointi, erävaellus, kalastus",
+	"typeId": 1
+}, {
+	"id": 426683,
+	"name": "Riisitunturin kansallispuisto",
+	"link": "https://www.luontoon.fi/riisitunturi",
+	"lon": "28.64898343",
+	"lat": "66.23754798",
+	"articleId": "426681",
+	"imageLink": null,
+	"description": "Etelä-Lappi<br>Reitit: Merkittyjä reittejä patikointiin ja lumikenkäilyyn (42 km). Hiihtoreittejä (20 km). Koko perheelle Riisin rääpäsy -rengasreitti (4,3 km).<br>Tekemistä: Patikointi, nähtävyyksien ja näköalojen katselu, lumikenkäily",
+	"typeId": -1
+}, {
+	"id": 428090,
+	"name": "Saaristomeren kansallispuisto",
+	"link": "https://www.luontoon.fi/saaristomeri",
+	"lon": "21.99774613",
+	"lat": "59.72586734",
+	"articleId": "428088",
+	"imageLink": null,
+	"description": "Varsinais-Suomi<br>Reitit: 14 maanpäällistä luontopolkua (0,3–3 km) sekä 2 vedenalaista luontopolkua<br>Tekemistä: Purjehdus, melonta, vapaaehtoistoiminta",
+	"typeId": -1
+}, {
+	"id": 462575,
+	"name": "Elimyssalon luonnonsuojelualue",
+	"link": "https://www.luontoon.fi/elimyssalo",
+	"lon": "30.51378976",
+	"lat": "64.15699384",
+	"articleId": "462573",
+	"imageLink": null,
+	"description": "Kainuu <br> Reitit: 3 merkittyä reittiä (1,5-13 km) <br> Tekemistä: Patikointi, erävaellus ja nähtävyyksien katselu",
+	"typeId": 1
+}, {
+	"id": 500129,
+	"name": "Tarvantovaaran erämaa-alue",
+	"link": "https://www.luontoon.fi/tarvantovaara",
+	"lon": "22.84286",
+	"lat": "68.60669",
+	"articleId": "500127",
+	"imageLink": null,
+	"description": "Tunturi-Lappi <br> Reitit: Kaksi osin merkittyä reittiä (20-25 km) <br> Tekemistä: Erävaellus, melonta, lintujen tarkkailu",
+	"typeId": 0
+}, {
+	"id": 484244,
+	"name": "Ruostejärven virkistysalue",
+	"link": "https://www.luontoon.fi/ruostejarvi",
+	"lon": "23.79665",
+	"lat": "60.71942",
+	"articleId": "484242",
+	"imageLink": null,
+	"description": "Etelä-Suomi, Kanta-Häme <br> Reitit: Luontopolut 0,5 ja 2,8 km, muut reitit 0,8-2 km <br> Tekemistä: Patikointi, marjastus ja sienestys, kalastus",
+	"typeId": 1
+}, {
+	"id": 536343,
+	"name": "Kuhmon luontokeskus Petola",
+	"link": "https://www.luontoon.fi/kuhmonluontokeskus",
+	"lon": "29.58170833",
+	"lat": "64.12159044",
+	"articleId": "536341",
+	"imageLink": null,
+	"description": "Kainuu <br> Näyttelyt, elokuvia, ryhmäopastuksia, luontopuoti, lupamyynti, luontopolku",
+	"typeId": -1
+}, {
+	"id": 57230032,
+	"name": "Iso-Palosen ja Maariansärkkien luonnonsuojelualue",
+	"link": "https://www.luontoon.fi/iso-palonen-maariansarkat",
+	"lon": "30.37009597",
+	"lat": "64.27717754",
+	"articleId": "57230030",
+	"imageLink": null,
+	"description": "Kainuu <br> Reitit: Merkityt reitit 3,5-16 km, melontareitti 40 km <br> Tekemistä: Patikointi, erävaellus, melonta",
+	"typeId": 1
+}, {
+	"id": 479485,
+	"name": "Neitvuoren-Luonterin alue",
+	"link": "https://www.luontoon.fi/neitvuori-luonteri",
+	"lon": "27.92383",
+	"lat": "61.59507",
+	"articleId": "479483",
+	"imageLink": null,
+	"description": "Itä-Suomi, Etelä-Savo <br> Reitit: Retkeilyreitit 3,9 ja 13 km, melontareitti 54 km, pyöräilyreitti 40 km <br> Tekemistä: Patikointi, näköalojen katselu, melonta, kalastus",
+	"typeId": 1
+}, {
+	"id": 456840,
+	"name": "Merenkurkun maailmanperintöalue",
+	"link": "https://www.luontoon.fi/merenkurkku",
+	"lon": "21.25766",
+	"lat": "63.33207",
+	"articleId": "456838",
+	"imageLink": null,
+	"description": "Pohjanmaa <br> Reitit: Useita merkittyjä reittejä 1-12 km, osalle poluista tarvitaan venekuljetus <br> Tekemistä: Melonta, kalastus, lintujen tarkkailu",
+	"typeId": -1
+}, {
+	"id": 406259,
+	"name": "Liesjärven kansallispuisto",
+	"link": "https://www.luontoon.fi/liesjarvi",
+	"lon": "23.91256251",
+	"lat": "60.69953978",
+	"articleId": "406257",
+	"imageLink": null,
+	"description": "Kanta-Häme<br>Reitit: Useita merkittyjä reittejä (1,5–5 km)<br>Tekemistä: Perinnetilaan tutustuminen, patikointi, vapaaehtoistyö",
+	"typeId": -1
+}, {
+	"id": 534281,
+	"name": "Ivalon palvelupiste",
+	"link": "https://www.luontoon.fi/ivalonpalvelupiste",
+	"lon": "27.53878",
+	"lat": "68.65708",
+	"articleId": "534279",
+	"imageLink": null,
+	"description": "Pohjois-Lappi <br> Retkeilyneuvonta, karttojen ja lupien myynti",
+	"typeId": -1
+}, {
+	"id": 464105,
+	"name": "Jauhovaara",
+	"link": "https://www.luontoon.fi/jauhovaara",
+	"lon": "29.12825",
+	"lat": "64.04298",
+	"articleId": "464103",
+	"imageLink": null,
+	"description": "Kainuu <br> Reitit: Luontopolut (1,5 ja 3,5 km) <br> Tekemistä: Patikointi, lintujen tarkkailu, nähtävyyksien katselu",
+	"typeId": 1
+}, {
+	"id": 401093,
+	"name": "Kurjenrahkan kansallispuisto",
+	"link": "https://www.luontoon.fi/kurjenrahka",
+	"lon": "22.44375067",
+	"lat": "60.72410606",
+	"articleId": "401091",
+	"imageLink": null,
+	"description": "Varsinais-Suomi<br>Reitit: Useita merkittyjä reittejä (1–6 km), jotka liittyvät puistoa ympäröivään Kuhankuonon retkeilyreitistöön ja Suokullan reittiin<br>Tekemistä: Patikointi, hiihto, geokätköily",
+	"typeId": -1
+}, {
+	"id": 438290,
+	"name": "Torronsuon kansallispuisto",
+	"link": "https://www.luontoon.fi/torronsuo",
+	"lon": "23.57667",
+	"lat": "60.73687",
+	"articleId": "438288",
+	"imageLink": null,
+	"description": "Kanta-Häme<br>Reitit: Merkittyjä reittejä tasaisessa maastossa (1,5–10 km). Talviaikaan perinteisen hiihtotyylin retkilatuja (5–15 km).<br>Tekemistä: Hiihto, patikointi, lintujen tarkkailu",
+	"typeId": -1
+}, {
+	"id": 579197,
+	"name": "Tapion taival 20 km",
+	"link": "https://www.luontoon.fi/tapiontaival",
+	"lon": "31.50980212",
+	"lat": "62.86833662",
+	"articleId": "579195",
+	"imageLink": null,
+	"description": "Itä-Suomi, Pohjois-Karjala <br> Kuljettavissa sulan maan aikaan, voidaan kulkea myös osittain, Koivusuon luonnonpuistossa pitää pysyä polulla",
+	"typeId": -1
+}, {
+	"id": 468391,
+	"name": "Kemihaaran erämaa-alue",
+	"link": "https://www.luontoon.fi/kemihaara",
+	"lon": "28.95257336",
+	"lat": "67.96312527",
+	"articleId": "468389",
+	"imageLink": null,
+	"description": "Itä-Lappi <br> Reitit: Ei merkittyjä reittejä <br> Tekemistä: Erävaellus, kalastus, metsästys",
+	"typeId": 0
+}, {
+	"id": 393741,
+	"name": "Kolin kansallispuisto",
+	"link": "https://www.luontoon.fi/koli",
+	"lon": "29.86773907",
+	"lat": "63.09158661",
+	"articleId": "393739",
+	"imageLink": null,
+	"description": "Pohjois-Karjala<br>Reitit: Merkittyjä reittejä ja luontopolkuja helppokulkuisista vaativiin (1–61 km). Talvisin hoidettuja latuja (yli 50 km).<br>Tekemistä: Patikointi (talvisin lumikengillä), laskettelu, ratsastus",
+	"typeId": -1
+}, {
+	"id": 484643,
+	"name": "Laahtanen",
+	"link": "https://www.luontoon.fi/laahtanen",
+	"lon": "28.47238",
+	"lat": "64.39640",
+	"articleId": "484641",
+	"imageLink": null,
+	"description": "Kainuu <br> Reitit: Merkitsemättömiä retkeilypolkuja yhteensä 7,1 km <br> Tekemistä: Patikointi, melonta, hiihto",
+	"typeId": 1
+}, {
+	"id": 529543,
+	"name": "Hetta - Pallas -reitti 55 km",
+	"link": "https://www.luontoon.fi/hetta-pallas",
+	"lon": "23.91924699",
+	"lat": "68.22522357",
+	"articleId": "529541",
+	"imageLink": null,
+	"description": "Tunturi-Lappi <br> Kuljettavissa kesäkuun alusta talven kynnykselle. Talvella Hetan ja Pallaksen välillä kulkee hiihtoreitti 53-60 km.",
+	"typeId": -1
+}, {
+	"id": 57241216,
+	"name": "Porkkala",
+	"link": "https://www.luontoon.fi/porkkala",
+	"lon": "24.3896248170608",
+	"lat": "59.9521101385059",
+	"articleId": "57241214",
+	"imageLink": null,
+	"description": "Uusimaa <br> Reitit: Sopivat päiväretkeilyyn ja lapsiperheille <br> Tekemistä: Patikointi, lintujen tarkkailu, purjehdus ja veneily",
+	"typeId": -1
+}, {
+	"id": 480377,
+	"name": "Levanevan luonnonsuojelualue",
+	"link": "https://www.luontoon.fi/levaneva",
+	"lon": "22.18379016",
+	"lat": "62.78064965",
+	"articleId": "480375",
+	"imageLink": null,
+	"description": "Etelä-Pohjanmaa ja Pohjanmaa <br> Reitit: Merkityt reitit (13-50 km) <br> Tekemistä: Patikointi, erävaellus, lintujen tarkkailu",
+	"typeId": 1
+}, {
+	"id": 431387,
+	"name": "Syötteen kansallispuisto",
+	"link": "https://www.luontoon.fi/syote",
+	"lon": "27.539446",
+	"lat": "65.676781",
+	"articleId": "431385",
+	"imageLink": null,
+	"description": "Pohjois-Pohjanmaa ja Etelä-Lappi<br>Reitit: Merkittyjä patikointireittejä ja luontopolkuja päiväretkeilyyn tai pidemmille vaelluksille (122 km), melontareitti (22 km). Hoidettuja latuja (33 km).<br>Tekemistä: Hiihto, maastopyöräily, patikointi",
+	"typeId": -1
+}, {
+	"id": 492076,
+	"name": "Miekojärvi",
+	"link": "https://www.luontoon.fi/miekojarvi",
+	"lon": "24.43732",
+	"lat": "66.62809",
+	"articleId": "492074",
+	"imageLink": null,
+	"description": "Etelä-Lappi <br> Reitit: Luontopolut 1,6-5 km, muut reitit 1,6-23 km <br> Tekemistä: Patikointi, melonta, kalastus",
+	"typeId": 1
+}, {
+	"id": 565233,
+	"name": "Itärajan kesäretkeilyreitti 160 km",
+	"link": "https://www.luontoon.fi/itarajankesaretkeilyreitti",
+	"lon": "29.97781532",
+	"lat": "64.73277255",
+	"articleId": "565231",
+	"imageLink": null,
+	"description": "Kainuu <br> Erämainen vaellusreitti Murhisalosta Hossaan, reitin voi kulkea kokonaan tai osittain",
+	"typeId": -1
+}, {
+	"id": 542572,
+	"name": "Pyhä-Luoston luontokeskus Naava",
+	"link": "https://www.luontoon.fi/pyha-luostonluontokeskus",
+	"lon": "27.25246219",
+	"lat": "67.01942569",
+	"articleId": "542570",
+	"imageLink": null,
+	"description": "Itä-Lappi <br> Näyttelyt, av-esitykset, retkineuvonta, tapahtumat, luontopuoti, lupamyynti, kahvila-ravintola",
+	"typeId": -1
+}, {
+	"id": 421637,
+	"name": "Pyhä-Häkin kansallispuisto",
+	"link": "https://www.luontoon.fi/pyha-hakki",
+	"lon": "25.49376485",
+	"lat": "62.85893223",
+	"articleId": "421635",
+	"imageLink": null,
+	"description": "Keski-Suomi<br>Reitit: Noin 30 km merkittyjä rengasreittejä (1,4–17 km), talvisin perinteisen hiihtotyylin retkilatu (1,5 km, jatkuu puiston ulkopuolelle)<br>Tekemistä: Nähtävyyksien ja näköalojen katselu, patikointi",
+	"typeId": -1
+}, {
+	"id": 554056,
+	"name": "Pallastunturin luontokeskus",
+	"link": "https://www.luontoon.fi/pallastunturinluontokeskus",
+	"lon": "24.06387715",
+	"lat": "68.04603169",
+	"articleId": "554054",
+	"imageLink": null,
+	"description": "Tunturi-Lappi <br> Näyttelyt, elokuvat, tapahtumat, ryhmäopastukset, retkeilyneuvonta, luontopuoti, lupamyynti",
+	"typeId": -1
+}, {
+	"id": 530463,
+	"name": "Kalajoen meriluontokeskus",
+	"link": "https://www.luontoon.fi/kalajoenluontokeskus",
+	"lon": "23.81060843",
+	"lat": "64.23238788",
+	"articleId": "530461",
+	"imageLink": null,
+	"description": "Pohjanmaa <br> Näyttelyt, tapahtumat, ryhmäopastukset, retkeilyneuvonta, luontopuoti, luontopolku",
+	"typeId": -1
+}, {
+	"id": 491824,
+	"name": "Saarijärven aarnialue",
+	"link": "https://www.luontoon.fi/saarijarvenaarnialue",
+	"lon": "28.57523",
+	"lat": "64.80979",
+	"articleId": "491822",
+	"imageLink": null,
+	"description": "Kainuu <br> Reitit: Luontopolku, rengasreitti 11,8 km, muut reitit 2,2 ja 15,9 km, hiihtoreitti 29,4 km <br> Tekemistä: Patikointi, erävaellus, nähtävyyksien katselu",
+	"typeId": 1
+}, {
+	"id": 403443,
+	"name": "Lauhanvuoren kansallispuisto",
+	"link": "https://www.luontoon.fi/lauhanvuori",
+	"lon": "22.22635826",
+	"lat": "62.13419683",
+	"articleId": "403441",
+	"imageLink": null,
+	"description": "Etelä-Pohjanmaa ja Satakunta<br>Reitit: Merkittyjä reittejä (n. 10 km), polku pyörätuolilla liikkuville (0,5 km). Perinteisen ladut (3,5 ja 10 km). Valtakunnallinen pyöräilyreitti.<br>Tekemistä: Nähtävyyksien ja näköalojen katselu, hiihto",
+	"typeId": -1
+}, {
+	"id": 433900,
+	"name": "Valkmusan kansallispuisto",
+	"link": "https://www.luontoon.fi/valkmusa",
+	"lon": "26.7945403",
+	"lat": "60.55439231",
+	"articleId": "433898",
+	"imageLink": null,
+	"description": "Kymenlaakso<br>Reitit: Merkitty, pitkostettu rengasreitti (2,5 km) luontotorneineen<br>Tekemistä: Patikointi, hiihto, lintujen tarkkailu",
+	"typeId": -1
+}, {
+	"id": 492040,
+	"name": "Saarijärven luonnonsuojelualue",
+	"link": "https://www.luontoon.fi/saarijarvipuolanka",
+	"lon": "27.58056329",
+	"lat": "64.80392324",
+	"articleId": "492038",
+	"imageLink": null,
+	"description": "Kainuu <br> Reitit: Rengasreitti 4,7 km <br> Tekemistä: Patikointi, kalastus",
+	"typeId": 1
+}, {
+	"id": 406609,
+	"name": "Linnansaaren kansallispuisto",
+	"link": "https://www.luontoon.fi/linnansaari",
+	"lon": "28.65267294",
+	"lat": "62.02971854",
+	"articleId": "406607",
+	"imageLink": null,
+	"description": "Etelä-Savo<br>Reitit: Puiston pääsaarella luontopolku (2 km) sekä merkittyjä reittejä (5,5 ja 7 km). Kevättalvella huollettu luistelureitti (20 km).<br>Tekemistä: Melonta, veneily, retkiluistelu",
+	"typeId": -1
+}, {
+	"id": 419509,
+	"name": "Perämeren kansallispuisto",
+	"link": "https://www.luontoon.fi/perameri",
+	"lon": "24.44834618",
+	"lat": "65.58313972",
+	"articleId": "419507",
+	"imageLink": null,
+	"description": "Pohjois-Pohjanmaa<br>Reitit: Selkä-Sarvessa luontopolku (1 km)\n<br>Tekemistä: Veneily, kulttuuriperintöön tutustuminen, lintujen tarkkailu, sukellus",
+	"typeId": -1
+}, {
+	"id": 393147,
+	"name": "Itäisen Suomenlahden kansallispuisto",
+	"link": "https://www.luontoon.fi/itainensuomenlahti",
+	"lon": "27.31574505",
+	"lat": "60.27992688",
+	"articleId": "393145",
+	"imageLink": null,
+	"description": "Kymenlaakso<br>Reitit: Ulko-Tammiossa luontopolku (3 km) ja Mustaviirissä kulttuuriluontopolku (1,6 km)<br>Tekemistä: Veneily, kalastus, lintujen tarkkailu",
+	"typeId": -1
+}, {
+	"id": 432582,
+	"name": "Tiilikkajärven kansallispuisto",
+	"link": "https://www.luontoon.fi/tiilikkajarvi",
+	"lon": "28.35997485",
+	"lat": "63.63909151",
+	"articleId": "432580",
+	"imageLink": null,
+	"description": "Pohjois-Savo<br>Reitit: Noin 20 km merkittyjä reittejä (3,4–7 km). Maaliskuussa latulenkit (7 ja 10 km) Tiilikan hiihdon aikaan.<br>Tekemistä: Patikointi, hiihto, melonta",
+	"typeId": -1
+}, {
+	"id": 462680,
+	"name": "Hammastunturin erämaa-alue",
+	"link": "https://www.luontoon.fi/hammastunturi",
+	"lon": "26.88282",
+	"lat": "68.60936",
+	"articleId": "462678",
+	"imageLink": null,
+	"description": "Pohjois-Lappi <br> Reitit: Merkitty kesäretkeilyreitti 12 km, melontareitti 70 km <br> Tekemistä: Erävaellus, melonta, tutustuminen kulttuuriperintöön",
+	"typeId": 0
+}, {
+	"id": 485603,
+	"name": "Närängän luonnonmetsät",
+	"link": "https://www.luontoon.fi/naranka",
+	"lon": "29.9704902",
+	"lat": "65.68664587",
+	"articleId": "485601",
+	"imageLink": null,
+	"description": "Pohjois-Pohjanmaa <br> Reitit: Merkityt reitit 3-7 km <br> Tekemistä: Patikointi, lintujen tarkkailu, nähtävyyksien katselu",
+	"typeId": 1
+}, {
+	"id": 960757,
+	"name": "Ystävyyden puisto",
+	"link": "https://www.luontoon.fi/ystavyydenpuisto",
+	"lon": "30.39210",
+	"lat": "64.19897",
+	"articleId": "960755",
+	"imageLink": null,
+	"description": "Itä-Suomi, Kainuu <br> Reitit: Useita merkittyjä reittejä <br> Tekemistä: Patikointi, kalastus, marjastus ja sienestys",
+	"typeId": 1
+}, {
+	"id": 391221,
+	"name": "Hiidenportin kansallispuisto",
+	"link": "https://www.luontoon.fi/hiidenportti",
+	"lon": "29.14275632",
+	"lat": "63.84701791",
+	"articleId": "391219",
+	"imageLink": null,
+	"description": "Kainuu<br>Reitit: Merkittyjä reittejä (30 km) helppokulkuisista vaativiin<br>Tekemistä: Patikointi, nähtävyyksien ja näköalojen katselu, valokuvaus",
+	"typeId": -1
+}, {
+	"id": 535307,
+	"name": "Liminganlahden luontokeskus",
+	"link": "https://www.luontoon.fi/liminganlahdenluontokeskus",
+	"lon": "25.31068315",
+	"lat": "64.8242199",
+	"articleId": "535305",
+	"imageLink": null,
+	"description": "Pohjanmaa <br> Näyttelyt, multimediaesitys, tapahtumat, matkailuneuvonta, lintutornit ja luontopolut",
+	"typeId": -1
+}, {
+	"id": 428064,
+	"name": "Seitsemisen kansallispuisto",
+	"link": "https://www.luontoon.fi/seitseminen",
+	"lon": "23.50832541",
+	"lat": "61.89142938",
+	"articleId": "428062",
+	"imageLink": null,
+	"description": "Pirkanmaa<br>Reitit: 60 km merkittyjä reittejä (1,5–17 km), osa soveltuu myös lastenvaunuille ja pyörätuolille. Talvella kattava latuverkosto (45 km).<br>Tekemistä: Luontokeskus, perinnetilaan tutustuminen, oppiminen luonnossa",
+	"typeId": -1
+}, {
+	"id": 547054,
+	"name": "Tammisaaren luontokeskus",
+	"link": "https://www.luontoon.fi/tammisaarenluontokeskus",
+	"lon": "23.43010242",
+	"lat": "59.97696766",
+	"articleId": "547052",
+	"imageLink": null,
+	"description": "Etelä-Suomi, Uusimaa <br> Näyttelyt, av-esitykset, tapahtumat, ryhmäopastukset, retkeilyneuvonta, luontopuoti",
+	"typeId": -1
+}, {
+	"id": 468447,
+	"name": "Juortanansalo-Lapinsuon luonnonsuojelualue",
+	"link": "https://www.luontoon.fi/juortanansalo-lapinsuo",
+	"lon": "29.99742847",
+	"lat": "64.57731217",
+	"articleId": "468445",
+	"imageLink": null,
+	"description": "Kainuu <br> Reitit: UKK-reitti kulkee alueella 3 km <br> Tekemistä: Patikointi, erävaellus",
+	"typeId": 1
+}, {
+	"id": 391244,
+	"name": "Helvetinjärven kansallispuisto",
+	"link": "https://www.luontoon.fi/helvetinjarvi",
+	"lon": "23.97307108",
+	"lat": "61.9995128",
+	"articleId": "391242",
+	"imageLink": null,
+	"description": "Pirkanmaa<br>Reitit: Merkittyjä reittejä (40 km) ja luontopolku (4 km) osin vaativassa maastossa<br>Tekemistä: Patikointi, nähtävyyksien ja näköalojen katselu",
+	"typeId": -1
+}, {
+	"id": 494623,
+	"name": "Paistjärvi",
+	"link": "https://www.luontoon.fi/paistjarvi",
+	"lon": "26.48186252",
+	"lat": "61.30314017",
+	"articleId": "494621",
+	"imageLink": null,
+	"description": "Etelä-Suomi, Päijät-Häme <br> Reitit: Merkityt reitit 2,5 ja 4 km <br> Tekemistä: Patikointi, melonta, kalastus",
+	"typeId": 1
+}, {
+	"id": 419887,
+	"name": "Puurijärven ja Isosuon kansallispuisto",
+	"link": "https://www.luontoon.fi/puurijarvi-isosuo",
+	"lon": "22.63333049",
+	"lat": "61.23428634",
+	"articleId": "419885",
+	"imageLink": null,
+	"description": "Satakunta ja Pirkanmaa<br>Reitit: Kolme merkittyä reittiä (0,5–2 km) vievät lintutorneille<br>Tekemistä: Patikointi, lintujen tarkkailu",
+	"typeId": -1
+}, {
+	"id": 602744,
+	"name": "Mattilan tila",
+	"link": "https://www.luontoon.fi/mattilantila",
+	"lon": "29.79199",
+	"lat": "63.10845",
+	"articleId": "602742",
+	"imageLink": null,
+	"description": "Itä-Suomi, Pohjois-Karjala, Kolin kansallispuisto <br> Kolin alueen vanhimpia tiloja, perustettu jo 1700-luvulla",
+	"typeId": -1
+}, {
+	"id": 533530,
+	"name": "Kolin luontokeskus Ukko",
+	"link": "https://www.luontoon.fi/kolinluontokeskus",
+	"lon": "29.80596526",
+	"lat": "63.0961042",
+	"articleId": "533528",
+	"imageLink": null,
+	"description": "Itä-Suomi, Pohjois-Karjala <br> Näyttelyt, ryhmäopastukset, lasten leikkinurkka, luontopolut, tapahtumat, retkeilyneuvonta, kahvila",
+	"typeId": -1
+}, {
+	"id": 57063130,
+	"name": "Kilpisjärven luontokeskus",
+	"link": "https://www.luontoon.fi/kilpisjarvenluontokeskus",
+	"lon": "20.88825305",
+	"lat": "69.01288794",
+	"articleId": "57063128",
+	"imageLink": null,
+	"description": "Tunturi-Lappi <br> Näyttely, kuvaesityksiä, retkeilyneuvonta, luontopuoti, kalastusluvat",
+	"typeId": -1
+}, {
+	"id": 481282,
+	"name": "Pihlajavesi",
+	"link": "https://www.luontoon.fi/pihlajavesi",
+	"lon": "28.92297828",
+	"lat": "61.72707215",
+	"articleId": "481280",
+	"imageLink": null,
+	"description": "Itä-Suomi, Etelä-Savo <br> Reitit: Merkityt reitit 0,4 ja 2,3 km <br>  Tekemistä: Patikointi, melonta, veneily, kalastus",
+	"typeId": 1
+}, {
+	"id": 491430,
+	"name": "Puljun erämaa-alue",
+	"link": "https://www.luontoon.fi/pulju",
+	"lon": "25.14495697",
+	"lat": "68.37528747",
+	"articleId": "491428",
+	"imageLink": null,
+	"description": "Tunturi-Lappi <br> Reitit: Ei merkittyjä reittejä <br> Tekemistä: Erävaellus, kalastus, metsästys",
+	"typeId": 0
+}, {
+	"id": 470003,
+	"name": "Hetan alue",
+	"link": "https://www.luontoon.fi/hetta",
+	"lon": "23.61075",
+	"lat": "68.38616",
+	"articleId": "470001",
+	"imageLink": null,
+	"description": "Pohjois-Lappi <br> Reitit: Luontopolut (1,6 ja 2 km), muut reitit (4-55 km), hiihtoreitit (7-38 km), melontareitti, pyöräilyreitti <br> Tekemistä: Patikointi, erävaellus, pyöräily, melonta, hiihto",
+	"typeId": 1
+}, {
+	"id": 463173,
+	"name": "Etelä-Sydänmaa",
+	"link": "https://www.luontoon.fi/etela-sydanmaa",
+	"lon": "25.05412571",
+	"lat": "63.49173225",
+	"articleId": "463171",
+	"imageLink": null,
+	"description": "Pohjois-Pohjanmaa <br> Reitit: Peuran polku -reitti kulkee alueella 8 km <br>Tekemistä: Patikointi, erävaellus, kalastus",
+	"typeId": 1
+}, {
+	"id": 463093,
+	"name": "Hämeenkangas",
+	"link": "https://www.luontoon.fi/hameenkangas",
+	"lon": "22.77390608",
+	"lat": "61.75128663",
+	"articleId": "463091",
+	"imageLink": null,
+	"description": "Länsi-Suomi, Satakunta, Pirkanmaa <br> Reitit: Luontopolku 4,5 km, rengasreitti 4,5 km sekä useita muita reittejä, hiihtolatuja 100 km <br> Tekemistä: Patikointi, hiihto, pyöräily",
+	"typeId": 1
+}, {
+	"id": 426591,
+	"name": "Rokuan kansallispuisto",
+	"link": "https://www.luontoon.fi/rokua",
+	"lon": "26.55448826",
+	"lat": "64.55752918",
+	"articleId": "426589",
+	"imageLink": null,
+	"description": "Pohjois-Pohjanmaa<br> Reitit: Merkittyjä reittejä yhteensä 57 km. Laaja latuverkosto ja maastopyöräreittejä.<br>Tekemistä: Patikointi, maastopyöräily, hiihtäminen, marjastus ja sienestys, nähtävyyksien ja näköalojen katselu",
+	"typeId": -1
+}, {
+	"id": 582313,
+	"name": "Taitajan taival 31 km",
+	"link": "https://www.luontoon.fi/taitajantaival",
+	"lon": "31.17402109",
+	"lat": "62.57994646",
+	"articleId": "582311",
+	"imageLink": null,
+	"description": "Itä-Suomi, Pohjois-Karjala <br> Kuljettavissa sulan maan aikaan, keskivaikea reitti",
+	"typeId": -1
+}, {
+	"id": 556312,
+	"name": "Yllästunturin luontokeskus Kellokas",
+	"link": "https://www.luontoon.fi/yllastunturinluontokeskus",
+	"lon": "24.20413792",
+	"lat": "67.58958374",
+	"articleId": "556310",
+	"imageLink": null,
+	"description": "Länsi-Lappi <br> Näyttelyt, av-esitykset, tapahtumat, ryhmäopastukset, lupamyynti, luontopuoti, kahvila-ravintola, luontopolut",
+	"typeId": -1
+}, {
+	"id": 514006,
+	"name": "Tsarmitunturin erämaa-alue",
+	"link": "https://www.luontoon.fi/tsarmitunturi",
+	"lon": "28.43433",
+	"lat": "68.67254",
+	"articleId": "514004",
+	"imageLink": null,
+	"description": "Pohjois-Lappi <br> Reitit: Ei merkittyjä reittejä <br> Tekemistä: Erävaellus, kalastus, metsästys",
+	"typeId": 0
+}, {
+	"id": 444304,
+	"name": "Inarin retkeilyalue",
+	"link": "https://www.luontoon.fi/inari",
+	"lon": "27.10884",
+	"lat": "68.82388",
+	"articleId": "444302",
+	"imageLink": null,
+	"description": "Pohjois-Lappi <br> Reitit: Useita päiväretkeilyyn sopivia reittejä (1,5-11 km), hoidettuja latuja 60 km <br> Tekemistä: Kalastus, patikointi, melonta",
+	"typeId": -1
+}, {
+	"id": 514893,
+	"name": "Tuntsan erämaa-alue",
+	"link": "https://www.luontoon.fi/tuntsa",
+	"lon": "29.77075152",
+	"lat": "67.64597956",
+	"articleId": "514891",
+	"imageLink": null,
+	"description": "Itä-Lappi <br> Reitit: UKK-reitti Naruska-Tulppio 112 km <br> Tekemistä: Erävaellus, kalastus, metsästys",
+	"typeId": 0
+}, {
+	"id": 548627,
+	"name": "Oulangan luontokeskus",
+	"link": "https://www.luontoon.fi/oulanganluontokeskus",
+	"lon": "29.31504055",
+	"lat": "66.36836337",
+	"articleId": "548625",
+	"imageLink": null,
+	"description": "Pohjois-Pohjanmaa <br> Näyttelyt, tapahtumat, ryhmäopastukset, retkeilyneuvonta, puuhanurkkaus, ravintola, luontopolku",
+	"typeId": -1
+}, {
+	"id": 524080,
+	"name": "Simojärven ja Soppanan alueet",
+	"link": "https://www.luontoon.fi/simojarvijasoppana",
+	"lon": "27.29386247",
+	"lat": "66.0696677",
+	"articleId": "524078",
+	"imageLink": null,
+	"description": "Etelä-Lappi <br> Reitit: Kolme rengasreittiä 5, 11,3 ja 14,5 km <br> Tekemistä: Patikointi, erävaellus, kalastus, melonta ja veneily",
+	"typeId": 1
+}, {
+	"id": 560944,
+	"name": "Syötteen luontokeskus",
+	"link": "https://www.luontoon.fi/syotteenluontokeskus",
+	"lon": "27.60927204",
+	"lat": "65.63516764",
+	"articleId": "560942",
+	"imageLink": null,
+	"description": "Pohjois-Pohjanmaa <br> Näyttelyt, elokuvat, tapahtumat, ryhmäopastukset, luontopuoti, lupamyynti, kahvila",
+	"typeId": -1
+}, {
+	"id": 500556,
+	"name": "Sallatunturin alue",
+	"link": "https://www.luontoon.fi/sallatunturi",
+	"lon": "28.68350",
+	"lat": "66.73788",
+	"articleId": "500554",
+	"imageLink": null,
+	"description": "Itä-Lappi <br> Reitit: Useita merkittyjä reittejä (0,5-75 km), hoidettuja latuja 80 km <br> Tekemistä: Patikointi, erävaellus, hiihto",
+	"typeId": 1
+}, {
+	"id": 495452,
+	"name": "Paistunturin erämaa-alue",
+	"link": "https://www.luontoon.fi/paistunturi",
+	"lon": "26.38299",
+	"lat": "69.61659",
+	"articleId": "495450",
+	"imageLink": null,
+	"description": "Pohjois-Lappi <br> Reitit: Luontopolku (2 km) ja neljä retkeilyreittiä (25-78 km) <br> Tekemistä: Erävaellus, kalastus, nähtävyyksien ja näköalojen katselu",
+	"typeId": 0
+}, {
+	"id": 476104,
+	"name": "Mujejärven alue",
+	"link": "https://www.luontoon.fi/mujejarvi",
+	"lon": "29.52582454",
+	"lat": "63.78253333",
+	"articleId": "476102",
+	"imageLink": null,
+	"description": "Itä-Suomi, Pohjois-Karjala <br> Reitit: Merkittyjä reittejä yhteensä 30 km <br> Tekemistä: Patikointi, erävaellus",
+	"typeId": 1
+}, {
+	"id": 547152,
+	"name": "Urho Kekkosen kansallispuiston palvelupiste Kiehinen",
+	"link": "https://www.luontoon.fi/urhokekkosenkansallispuistonpalvelupiste",
+	"lon": "27.41059",
+	"lat": "68.42183",
+	"articleId": "547150",
+	"imageLink": null,
+	"description": "Pohjois-Lappi <br> Näyttelyt, multivisioesitys, retkeilyneuvonta, luontopuoti, lupamyynti",
+	"typeId": -1
+}, {
+	"id": 549725,
+	"name": "Teijon luontokeskus",
+	"link": "https://www.luontoon.fi/teijonluontokeskus",
+	"lon": "22.93623162",
+	"lat": "60.21019308",
+	"articleId": "549723",
+	"imageLink": null,
+	"description": "Varsinais-Suomi <br> Teijon kansallispuiston info on muuttanut Mathildedalin Ruukkitehtaille, Hotel & Café Mathildedalin yhteyteen.",
+	"typeId": -1
+}, {
+	"id": 456093,
+	"name": "Kylmäluoman retkeilyalue",
+	"link": "https://www.luontoon.fi/kylmaluoma",
+	"lon": "28.95318362",
+	"lat": "65.59407179",
+	"articleId": "456091",
+	"imageLink": null,
+	"description": "Pohjois-Pohjanmaa <br> Reitit: Merkittyjä reittejä 54 km ja hoidettuja hiihtolatuja 15 km <br> Tekemistä: Kalastus, patikointi, metsästys",
+	"typeId": -1
+}, {
+	"id": 420269,
+	"name": "Lemmenjoen kansallispuisto",
+	"link": "https://www.luontoon.fi/lemmenjoki",
+	"lon": "25.98791",
+	"lat": "68.76765",
+	"articleId": "420267",
+	"imageLink": null,
+	"description": "Pohjois-Lappi<br>Reitit: Merkittyjä reittejä ja luontopolkuja (60 km)<br>Tekemistä: Veneily, vaellus, nähtävyyksien ja näköalojen katselu",
+	"typeId": -1
+}, {
+	"id": 573309,
+	"name": "Kalottireitti 800 km",
+	"link": "https://www.luontoon.fi/kalottireitti",
+	"lon": "21.34187678",
+	"lat": "69.15496054",
+	"articleId": "573307",
+	"imageLink": null,
+	"description": "Tunturi-Lappi <br> Suomen puoleinen osa (70 km) kuljettavissa heinäkuun alusta syyskuun puoliväliin",
+	"typeId": -1
+}, {
+	"id": 428986,
+	"name": "Salamajärven kansallispuisto",
+	"link": "https://www.luontoon.fi/salamajarvi",
+	"lon": "24.87860292",
+	"lat": "63.25424727",
+	"articleId": "428984",
+	"imageLink": null,
+	"description": "Keski-Suomi ja Keski-Pohjanmaa <br>Reitit: 70 km merkittyjä rengasreittejä (1,5–56 km), jotka liittyvät Peuran polku -retkeilyreitistöön (115 km). Lasten luontopolku (1,5 km).<br>Tekemistä: Vaellus, kalastus, luontotupaan tutustuminen",
+	"typeId": -1
+}, {
+	"id": 842604,
+	"name": "Etelä-Konneveden kansallispuisto",
+	"link": "https://www.luontoon.fi/etela-konnevesi",
+	"lon": "26.71293881",
+	"lat": "62.57503955",
+	"articleId": "842602",
+	"imageLink": null,
+	"description": "Keski-Suomi ja Pohjois-Savo<br>Reitit (2,8-14 km) ovat suurten korkeuserojen vuoksi vaativia. Vuori-Kalaja-lammelle pääsee myös pyörätuolilla avustajan kanssa.<br>Tekemistä: Veneily, melonta, patikointi",
+	"typeId": -1
+}, {
+	"id": 422692,
+	"name": "Pyhä-Luoston kansallispuisto",
+	"link": "https://www.luontoon.fi/pyha-luosto",
+	"lon": "27.25427916",
+	"lat": "67.00709806",
+	"articleId": "422690",
+	"imageLink": null,
+	"description": "Itä-Lappi<br>Reitit: Kesäreittejä (75 km), sopivia päiväretkiin. Myös yön yli vaelluksia tunturikeskusten välillä (Luosto-Pyhä, 43 km). Talvella hiihtolatuja (120 km).<br>Tekemistä: Nähtävyyksien ja näköalojen katselu, patikointi, luontokeskus Naava",
+	"typeId": -1
+}, {
+	"id": 582277,
+	"name": "Pyhä-Luosto reitti 45 km",
+	"link": "https://www.luontoon.fi/pyha-luostoreitti",
+	"lon": "27.25427916",
+	"lat": "67.00709806",
+	"articleId": "582275",
+	"imageLink": null,
+	"description": "Itä-Lappi <br> Sopii myös aloittelevalle retkeilijälle, useita mahdollisia lähtöpaikkoja, voi kulkea vain osan reitistä",
+	"typeId": -1
+}, {
+	"id": 531794,
+	"name": "Hossan luontokeskus",
+	"link": "https://www.luontoon.fi/hossanluontokeskus",
+	"lon": "29.56431433",
+	"lat": "65.43175903",
+	"articleId": "531792",
+	"imageLink": null,
+	"description": "Kainuu <br> Näyttely, luontopolku, ryhmäopastukset, kahvila-ravintola, neuvonta",
+	"typeId": -1
+}, {
+	"id": 456577,
+	"name": "Napapiirin retkeilyalue",
+	"link": "https://www.luontoon.fi/napapiiri",
+	"lon": "26.05447876",
+	"lat": "66.54928297",
+	"articleId": "456575",
+	"imageLink": null,
+	"description": "Etelä-Lappi <br> Reitit: Päiväretkille soveltuvia merkittyjä reittejä ja luontopolkuja (0,2-12 km); vesi- ja melontareitti <br> Tekemistä: Patikointi, melonta, kalastus",
+	"typeId": -1
+}, {
+	"id": 420423,
+	"name": "Nuuksion kansallispuisto",
+	"link": "https://www.luontoon.fi/nuuksio",
+	"lon": "24.44821",
+	"lat": "60.30638",
+	"articleId": "420421",
+	"imageLink": null,
+	"description": "Uusimaa<br>Reitit: Merkittyjä reittejä ja luontopolkuja helppokulkuisista vaativiin (1,5–17 km), 30 km pyöräilyreittejä, 22 km ratsastusreittejä<br>Tekemistä: Patikointi, oppiminen luonnossa, luontokeskus",
+	"typeId": -1
+}, {
+	"id": 586572,
+	"name": "Piilolan polku 35 km",
+	"link": "https://www.luontoon.fi/piilolanpolku",
+	"lon": "28.48975",
+	"lat": "68.97398",
+	"articleId": "586570",
+	"imageLink": null,
+	"description": "Pohjois-Lappi <br> Kesävaellusreitti kokeneelle vaeltajalle",
+	"typeId": -1
+}, {
+	"id": 39280656,
+	"name": "Hossan kansallispuisto",
+	"link": "https://www.luontoon.fi/hossa",
+	"lon": "29.56431433",
+	"lat": "65.43175903",
+	"articleId": "39280654",
+	"imageLink": null,
+	"description": "Kainuu ja Pohjois-Pohjanmaa <br> Reitit: Merkittyjä polkuja yhteensä 90 km, vesiretkeilyreittejä 60 km <br> Tekemistä: Patikointi, melonta, maastopyöräily, kalastus",
+	"typeId": -1
+}, {
+	"id": 476941,
+	"name": "Muotkatunturin erämaa-alue",
+	"link": "https://www.luontoon.fi/muotkatunturi",
+	"lon": "26.37180",
+	"lat": "69.13982",
+	"articleId": "476939",
+	"imageLink": null,
+	"description": "Pohjois-Lappi <br> Reitit: Ei merkittyjä reittejä <br> Tekemistä: Erävaellus, kalastus, metsästys",
+	"typeId": 0
+}, {
+	"id": 479879,
+	"name": "Korouoman suojelualue",
+	"link": "https://www.luontoon.fi/korouoma",
+	"lon": "27.71240334",
+	"lat": "66.08573793",
+	"articleId": "479877",
+	"imageLink": null,
+	"description": "Etelä-Lappi <br> Reitit: Rengasreitti 5 km, vaellusreitti 25 km/suunta <br> Tekemistä: Patikointi, jääkiipeily, näköalojen katselu",
+	"typeId": 1
+}, {
+	"id": 489443,
+	"name": "Sompion luonnonpuisto",
+	"link": "https://www.luontoon.fi/sompio",
+	"lon": "27.6132395",
+	"lat": "68.1594328",
+	"articleId": "489441",
+	"imageLink": null,
+	"description": "Itä-Lappi <br> Reitit: Merkityt reitit 7 ja 35 km <br> Tekemistä: Patikointi, nähtävyyksien ja näköalojen katselu",
+	"typeId": 1
+}, {
+	"id": 558116,
+	"name": "Ylä-Lapin luontokeskus Siida",
+	"link": "https://www.luontoon.fi/yla-lapinluontokeskus",
+	"lon": "27.01345746",
+	"lat": "68.91085838",
+	"articleId": "558114",
+	"imageLink": null,
+	"description": "Pohjois-Lappi <br> Näyttelyt, av-esitykset, tapahtumat, ryhmäopastukset, retkeilyneuvonta, lupamyynti, kahvila-ravintola, ulkomuseoalue, luontopolku",
+	"typeId": -1
+}, {
+	"id": 717634,
+	"name": "Kuusamon palvelupiste Karhuntassu",
+	"link": "https://www.luontoon.fi/kuusamonpalvelupiste",
+	"lon": "29.15829067",
+	"lat": "65.95561739",
+	"articleId": "717632",
+	"imageLink": null,
+	"description": "Kainuu <br> Retkeilyneuvonta, luontopuoti, kahvila, lupamyynti",
+	"typeId": -1
+}, {
+	"id": 494939,
+	"name": "Puula ja Kyyvesi",
+	"link": "https://www.luontoon.fi/puulajakyyvesi",
+	"lon": "27.07961",
+	"lat": "61.98122",
+	"articleId": "494937",
+	"imageLink": null,
+	"description": "Itä-Suomi, Etelä-Savo <br> Reitit: Vaellusreitti 40 km, melontareitit 110 ja 360 km <br> Tekemistä: Patikointi, erävaellus, melonta, veneily",
+	"typeId": 1
+}, {
+	"id": 558290,
+	"name": "Saimaan luontokeskus Riihisaari",
+	"link": "https://www.luontoon.fi/saimaanluontokeskus",
+	"lon": "28.89530",
+	"lat": "61.86361",
+	"articleId": "558288",
+	"imageLink": null,
+	"description": "Itä-Suomi, Etelä-Savo <br> Näyttelyt, tapahtumat, ryhmäopastukset, retkeilyneuvonta, museokauppa",
+	"typeId": -1
+}, {
+	"id": 488125,
+	"name": "Martimoaapa",
+	"link": "https://www.luontoon.fi/martimoaapa",
+	"lon": "25.27183482",
+	"lat": "65.83351346",
+	"articleId": "488123",
+	"imageLink": null,
+	"description": "Etelä-Lappi <br> Reitit: Luontopolku 3 km, retkeilyreitit (4-12,8 km) <br> Tekemistä: Patikointi, erävaellus, lintujen tarkkailu",
+	"typeId": 1
+}, {
+	"id": 459669,
+	"name": "Teijon kansallispuisto",
+	"link": "https://www.luontoon.fi/teijo",
+	"lon": "23.07441234",
+	"lat": "60.22846854",
+	"articleId": "459667",
+	"imageLink": null,
+	"description": "Varsinais-Suomi<br>Reitit: Noin 50 km merkittyjä reittejä (1,5–10 km). Liikuntaesteisille soveltuvia reittejä (yhteensä 3 km).<br>Tekemistä: Patikointi, kalastus, pyöräily, melonta",
+	"typeId": -1
+}, {
+	"id": 559732,
+	"name": "Seitsemisen luontokeskus",
+	"link": "https://www.luontoon.fi/seitsemisenluontokeskus",
+	"lon": "23.35934367",
+	"lat": "61.9698505",
+	"articleId": "559730",
+	"imageLink": null,
+	"description": "Länsi-Suomi, Pirkanmaa <br> Näyttelyt, elokuvat, ryhmäopastukset, retkineuvonta, ravintola, luontopolut",
+	"typeId": -1
+}, {
+	"id": 433708,
+	"name": "Selkämeren kansallispuisto",
+	"link": "https://www.luontoon.fi/selkameri",
+	"lon": "21.07366352",
+	"lat": "61.11512971",
+	"articleId": "433706",
+	"imageLink": null,
+	"description": "Satakunta ja Varsinais-Suomi<br>Reitit: Iso-Enskerin pirunpelto- ja metsämaisemissa luontopolku (1,5 ja 3 km) esittelee saaren luonnonhistoriaa<br>Tekemistä: Veneily, sukellus, snorklaus, nähtävyyksien ja näköalojen katselu",
+	"typeId": -1
+}, {
+	"id": 469201,
+	"name": "Kermajärvi",
+	"link": "https://www.luontoon.fi/kermajarvi",
+	"lon": "28.85027963",
+	"lat": "62.43000414",
+	"articleId": "469199",
+	"imageLink": null,
+	"description": "Itä-Suomi, Etelä-Savo <br> Reitit: Heinäveden kunnan ylläpitämä hiihtoreitti <br> Tekemistä: Melonta, hiihto, kalastus",
+	"typeId": 1
+}]
